@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DataStructureInJava
+Bundle-SymbolicName: DataStructureInJava
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.darkray.datastructure.effectivejava.problems,
+ com.darkray.datastructure.sorting,
+ com.darkray.datastructure.tree
+Require-Bundle: org.junit;bundle-version="4.11.0"
